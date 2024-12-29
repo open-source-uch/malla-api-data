@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "IV Semester",
+        "season": "Primavera",
+        "degree": "Degree 2",
+        "comment": "Some useful comment."
+    },
+    "courses": [
+        {
+            "code": "TC4001",
+            "name": "Template Course 4A",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "TC4002",
+            "name": "Template Course 4B",
+            "credits": 3,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "name": "Extended Attributes",
+        "comment": "If there is something strange going on in the malla, it can be translated here."
+    },
+    "attributes": {
+        "00": {
+            "name": "Ext Attr for Dept 00",
+            "comment": "This is a wildcard for strange blocks of courses.",
+            "ucampus_code": -1,
+            "prefix": {
+                "ucampus": [],
+                "courses": []
+            },
+            "xattr": {
+                "10": {
+                    "names": [],
+                    "depts": [],
+                    "courses": []
+                }
+            }
+        },
+        "99": {
+            "name": "Ext Attr For Dept 99",
+            "comment": "This is a wildcard for coruse of Science Fiction Department.",
+            "ucampus_code": 99,
+            "prefix": {
+                "ucampus": [],
+                "courses": []
+            },
+            "xattr": {
+                "10": {
+                    "names": [],
+                    "depts": [],
+                    "courses": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "metadata": {
+        "name": "Major Name",
+        "site": "https://major.example.com/malla",
+        "comment": "This is a major index example json."
+    },
+    "version": {
+        "v1": {
+            "semesters": 14,
+            "degrees": {
+                "degree1": 6,
+                "degree2": 4,
+                "degree3": 4
+            },
+            "picture": ""
+        },
+        "v2": {
+            "semesters": 12,
+            "degrees": {
+                "degree1": 4,
+                "degree2": 4,
+                "degree3": 4
+            },
+            "picture": ""
+        },
+        "v3": {
+            "semesters": 12,
+            "degrees": {
+                "degree1": 4,
+                "degree2": 4,
+                "degree3": 4
+            },
+            "picture": ""
+        },
+        "v5": {
+            "semesters": 11,
+            "degrees": {
+                "degree1": 4,
+                "degree2": 4,
+                "degree3": 3
+            },
+            "picture": ""
+        }
+    }
+}

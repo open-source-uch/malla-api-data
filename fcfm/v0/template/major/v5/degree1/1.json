@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "I Semester",
+        "season": "Otoño",
+        "degree": "Degree 1",
+        "comment": "Some useful comment."
+    },
+    "courses": [
+        {
+            "code": "TC1001",
+            "name": "Template Course 1A",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "TC1002",
+            "name": "Template Course 1B",
+            "credits": 3,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        }
+    ]
+}

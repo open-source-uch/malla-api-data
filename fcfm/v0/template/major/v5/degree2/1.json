@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "III Semester",
+        "season": "Otoño",
+        "degree": "Degree 2",
+        "comment": "Some useful comment."
+    },
+    "courses": [
+        {
+            "code": "TC3001",
+            "name": "Template Course 3A",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "TC3002",
+            "name": "Template Course 3B",
+            "credits": 3,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        }
+    ]
+}

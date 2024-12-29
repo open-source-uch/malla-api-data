@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "name": "II Semester",
+        "season": "Primavera",
+        "degree": "Degree 1",
+        "comment": "Some useful comment."
+    },
+    "courses": [
+        {
+            "code": "TC2001",
+            "name": "Template Course 2A",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "TC2002",
+            "name": "Template Course 2B",
+            "credits": 3,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        }
+    ]
+}
