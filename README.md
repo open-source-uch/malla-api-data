@@ -79,11 +79,12 @@ Given a fake course code `XA0010`:
 
 * `XA` indicates that this fake course only exists on this file and not in U-Campus.
 
-* The first two numbers `00` indicate the department this fake curse belongs to. A positive value in `ucampus_code` corresponds to the real course code in U-Campus.
+* The first two numbers `00` indicate the department this fake curse belongs to.
 
 * The las two numbers `10` indicate the xattr category of this fake course.
 
-> For more information on xattr check the comprehensive guide [here](./EXTENDED_ATTR).
+> [!NOTE]
+> For more information on xattr check the comprehensive annotations [here](./EXTENDED_ATTR).
 
 #### Major Index Block
 
