@@ -14,7 +14,6 @@
             },
             "malla": "https://faculty.example.com/malla/major/v1",
             "comment": "This is a v1 major malla example."
-            
         },
         "v2": {
             "semesters": 12,
