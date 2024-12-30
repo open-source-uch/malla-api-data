@@ -12,7 +12,9 @@
                 "degree2": 4,
                 "degree3": 4
             },
-            "picture": ""
+            "malla": "https://faculty.example.com/malla/major/v1",
+            "comment": "This is a v1 major malla example."
+            
         },
         "v2": {
             "semesters": 12,
@@ -21,7 +23,8 @@
                 "degree2": 4,
                 "degree3": 4
             },
-            "picture": ""
+            "malla": "https://faculty.example.com/malla/major/v2",
+            "comment": "This is a v2 major malla example."
         },
         "v3": {
             "semesters": 12,
@@ -30,7 +33,8 @@
                 "degree2": 4,
                 "degree3": 4
             },
-            "picture": ""
+            "malla": "https://faculty.example.com/malla/major/v3",
+            "comment": "This is a v3 major malla example."
         },
         "v5": {
             "semesters": 11,
@@ -39,7 +43,8 @@
                 "degree2": 4,
                 "degree3": 3
             },
-            "picture": ""
+            "malla": "https://faculty.example.com/malla/major/v5",
+            "comment": "This is a v5 major malla example."
         }
     }
 }
