@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "name": "Ingeniería Civil en Computación",
+        "site": "https://dcc.uchile.cl/pregrado/malla/",
+        "comment": "Malla provided by department."
+    },
+    "version": {
+        "v5": {
+            "semesters": 11,
+            "degrees": {
+                "plan_comun": 4,
+                "licenciatura": 4,
+                "ingenieria": 3
+            },
+            "malla": "https://ingenieria.uchile.cl/dam/jcr:603c734d-53d6-4717-8d73-491cc026b0fb/_Malla%20Civil%20Computaci%C3%B3n%202022,%20Taller%20de%20pr%C3%A1ctica,%2028%20de%20julio.jpg",
+            "comment": "Mall provided by FCFM."
+        }
+    }
+}

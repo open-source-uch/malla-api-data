@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "name": "XI Semestre",
+        "season": "Otoño",
+        "degree": "Ingeniería"
+    },
+    "courses": [
+        {
+            "code": "CC6919",
+            "name": "Trabajo de Título",
+            "credits": 24,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "CC6907"
+            ],
+            "unlocks": []
+        },
+        {
+            "code": "XA0022",
+            "name": "Electivo de Especialidad",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "EI2090",
+            "name": "Examen de Suficiencia en Inglés II",
+            "credits": 0,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        }
+    ]
+  }
+  
