@@ -25,6 +25,13 @@ Faculty Name
    \=> Extended Attributes File
 ```
 
+> [!WARNING]
+> As of `v0` the API supports *vertical groups* for courses, called degrees and aligned with the semesters.
+>
+> However, it **does not** support *horizontal groups* for courses, commonly called lines.
+>
+> This complexity must be addressed inside the [Extended Attributes](./EXTENDED_ATTR) **and not** inside the course block.
+
 ### API Version
 
 > Starts from `v0`.
