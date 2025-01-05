@@ -30,7 +30,7 @@ Faculty Name
 >
 > However, it **does not** support *horizontal groups* for courses, commonly called lines.
 >
-> This complexity must be addressed inside the [Extended Attributes](./EXTENDED_ATTR) **and not** inside the course block.
+> This complexity must be addressed inside the [Extended Attributes](./EXTENDED_ATTR.md) **and not** inside the course block.
 
 ### API Version
 
@@ -84,7 +84,7 @@ Given a fake course code `XA0010`:
 * The las two numbers `10` indicate the xattr category of this fake course.
 
 > [!NOTE]
-> For more information on xattr check the comprehensive annotations [here](./EXTENDED_ATTR).
+> For more information on xattr check the comprehensive annotations [here](./EXTENDED_ATTR.md).
 
 #### Major Index Block
 
