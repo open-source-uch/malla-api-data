@@ -12,8 +12,8 @@
             "concurrent": [],
             "provides": [],
             "requires": [
-                "XA2242",
-                "XA2243"
+                "XA0042",
+                "XA2241"
             ],
             "unlocks": [
                 "ME5210"
@@ -78,7 +78,7 @@
             "concurrent": [],
             "provides": [],
             "requires": [
-                "XA2244"
+                "XA2242"
             ],
             "unlocks": [
                 "ME5902"

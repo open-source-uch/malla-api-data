@@ -24,7 +24,7 @@
             "concurrent": [],
             "provides": [],
             "requires": [
-                "XA007I"
+                "XA017I"
             ],
             "unlocks": [
                 "ME6909"
