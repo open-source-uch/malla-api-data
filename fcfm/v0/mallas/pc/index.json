@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "name": "Plan Común",
+        "site": "https://www.dii.uchile.cl/~webpgrado2/plan-de-estudios/plan-comun/",
+        "comment": "Malla provided by DII."
+    },
+    "version": {
+        "v5": {
+            "semesters": 4,
+            "degrees": {
+                "plan_comun": 4
+            },
+            "malla": "https://ingenieria.uchile.cl/dam/jcr:ace85b13-2ff3-49f9-8946-c2c96de17198/Malla%20Plan%20Comun%20Requisitos%202019-3.jpeg",
+            "comment": "Mall provided by FCFM."
+        }
+    }
+}
