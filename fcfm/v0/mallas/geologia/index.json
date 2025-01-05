@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "name": "Geología",
+        "site": "https://geologia.uchile.cl/pregrado/geologia",
+        "comment": "Does not provide malla, only list of courses."
+    },
+    "version": {
+        "v5": {
+            "semesters": 11,
+            "degrees": {
+                "plan_comun": 4,
+                "licenciatura": 4,
+                "ingenieria": 3
+            },
+            "malla": "https://ingenieria.uchile.cl/dam/jcr:0c565237-1fad-4866-bb0f-788243ad5a67/Malla%20Geologia%20Taller%20de%20pr%C3%A1ctica,%2028%20julio.jpg",
+            "comment": "Mall provided by FCFM."
+        }
+    }
+}
