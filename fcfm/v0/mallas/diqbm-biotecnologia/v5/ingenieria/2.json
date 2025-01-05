@@ -1,0 +1,69 @@
+{
+    "metadata": {
+        "name": "X Semestre",
+        "season": "Otoño",
+        "degree": "Ingeniería"
+    },
+    "courses": [
+        {
+            "code": "BT6907",
+            "name": "Trabajo de Habilitación Profesional I",
+            "credits": 3,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "BT5912",
+                "BT5714"
+            ],
+            "unlocks": [
+                "BT6919"
+            ]
+        },
+        {
+            "code": "IQ5113",
+            "name": "Dinámica y Control de Procesos",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "IQ4112",
+                "IQ4315"
+            ],
+            "unlocks": [
+                "BT6919"
+            ]
+        },
+        {
+            "code": "BT5316",
+            "name": "Procesos de Separación en Biotecnología",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "IQ4314"
+            ],
+            "unlocks": []
+        },
+        {
+            "code": "BT5715",
+            "name": "Taller de Proyectos en Ingeniería o Ciencias",
+            "credits": 9,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "BT5714",
+                "BT4712"
+            ],
+            "unlocks": []
+        },
+        {
+            "code": "XA0022",
+            "name": "Electivo de Especialidad",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        }
+    ]
+}

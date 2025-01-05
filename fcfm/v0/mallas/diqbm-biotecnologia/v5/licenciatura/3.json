@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "name": "VII Semestre",
+        "season": "Otoño",
+        "degree": "Licenciatura"
+    },
+    "courses": [
+        {
+            "code": "IQ4112",
+            "name": "Métodos Matemáticos para Procesos",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "MA3403"
+            ],
+            "unlocks": [
+                "IQ5113",
+                "BT6919"
+            ]
+        },
+        {
+            "code": "IN4273",
+            "name": "Gestión de Operaciones",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "XA0042"
+            ],
+            "unlocks": [
+                "BT4713"
+            ]
+        },
+        {
+            "code": "BT4114",
+            "name": "Biotecnología Molecular",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "BT3113"
+            ],
+            "unlocks": [
+                "BT4712"
+            ]
+        },
+        {
+            "code": "IN3301",
+            "name": "Evaluación de Proyectos",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "IN2201",
+                "XA0041"
+            ],
+            "unlocks": [
+                "BT4713"
+            ]
+        },
+        {
+            "code": "XA0021",
+            "name": "Electivo",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "BT4911",
+            "name": "Práctica Profesional I",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "IQ3312",
+                "BT4910"
+            ],
+            "unlocks": [
+                "BT5912"
+            ]
+        }
+    ]
+}

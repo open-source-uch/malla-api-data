@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "name": "IX Semestre",
+        "season": "Primavera",
+        "degree": "Ingeniería"
+    },
+    "courses": [
+        {
+            "code": "BT5311",
+            "name": "Ingeniería de Enzímas y Proteínas",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "BT4114"
+            ],
+            "unlocks": []
+        },
+        {
+            "code": "BT5312",
+            "name": "Ingeniería Metabólica y Biorreactores",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "IQ4314",
+                "BT4315"
+            ],
+            "unlocks": [
+                "BT6919"
+            ]
+        },
+        {
+            "code": "BT5714",
+            "name": "Taller de Implementación de Proyectos",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "BT4713",
+                "BT4712"
+            ],
+            "unlocks": [
+                "BT6907",
+                "BT5715"
+            ]
+        },
+        {
+            "code": "XA0022",
+            "name": "Electivo de Especialidad",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "XA0022",
+            "name": "Electivo de Especialidad",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "BT5912",
+            "name": "Práctica Profesional II",
+            "credits": 13,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "BT4911",
+                "BT5910",
+                "IQ4314"
+            ],
+            "unlocks": [
+                "BT6907"
+            ]
+        }
+    ]
+}

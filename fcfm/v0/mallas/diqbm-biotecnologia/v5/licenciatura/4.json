@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "name": "VIII Semestre",
+        "season": "Primavera",
+        "degree": "Licenciatura"
+    },
+    "courses": [
+        {
+            "code": "BT4315",
+            "name": "Operaciones de Transferencia de Masa y Separación",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "IQ3312"
+            ],
+            "unlocks": [
+                "IQ5113",
+                "BT5312"
+            ]
+        },
+        {
+            "code": "IQ4314",
+            "name": "Diseño de Reactores",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "IQ3211",
+                "IQ3311",
+                "IQ3312"
+            ],
+            "unlocks": [
+                "BT5312",
+                "BT5912",
+                "BT5316"
+            ]
+        },
+        {
+            "code": "BT4712",
+            "name": "Biotecnología en Agricultura, Salud, Ambiente e Industria",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "BT3112",
+                "BT4114",
+                "BT3711"
+            ],
+            "unlocks": [
+                "BT5714",
+                "BT5715"
+            ]
+        },
+        {
+            "code": "BT4713",
+            "name": "Taller de Diseño e Inovación de Proyectos",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "IN4273",
+                "BT3711",
+                "IQ3311",
+                "IN3301"
+            ],
+            "unlocks": [
+                "BT5714"
+            ]
+        },
+        {
+            "code": "XA0021",
+            "name": "Electivo",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "XA0012",
+            "name": "Formación Integral",
+            "credits": 3,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "EI1090",
+            "name": "Examen de Suficiencia en Inglés I",
+            "credits": 0,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "BT5910",
+            "name": "Taller de Práctica Profesional II",
+            "credits": 1,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": [
+                "BT5912"
+            ]
+        }
+    ]
+}

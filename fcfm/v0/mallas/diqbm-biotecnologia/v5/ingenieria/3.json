@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "name": "XI Semestre",
+        "season": "Primavera",
+        "degree": "Ingeniería"
+    },
+    "courses": [
+        {
+            "code": "BT6919",
+            "name": "Trabajo de Habilitación Profesional II",
+            "credits": 24,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "BT6907",
+                "IQ5113",
+                "BT5312"
+            ],
+            "unlocks": []
+        },
+        {
+            "code": "XA0022",
+            "name": "Electivo de Especialidad",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "EI2090",
+            "name": "Examen de Suficiencia en Inglés II",
+            "credits": 0,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        }
+    ]
+}

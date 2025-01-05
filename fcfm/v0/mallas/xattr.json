@@ -17,15 +17,15 @@
                     "names": [
                         "Formación Integral"
                     ],
-                      "depts": [],
-                      "courses": []
+                    "depts": [],
+                    "courses": []
                 },
                 "11": {
                     "names": [
                         "Formación Integral Plan Común"
                     ],
                     "depts": [
-                        "DR", 
+                        "DR",
                         "EH",
                         "FG",
                         "EI",
@@ -121,7 +121,7 @@
                 "33": {
                     "names": [
                         "Optimización",
-                        "Modelamiento y Optimización" 
+                        "Modelamiento y Optimización"
                     ],
                     "depts": [
                         "MA",
@@ -195,9 +195,36 @@
                     ],
                     "depts": [],
                     "courses": []
+                },
+                "41": {
+                    "names": [
+                        "IN3141/MA3403/MA3401"
+                    ],
+                    "depts": [
+                        "IN",
+                        "MA"
+                    ],
+                    "courses": [
+                        "IN3141",
+                        "XA0037"
+                    ]
+                },
+                "42": {
+                    "names": [
+                        "IN3171/IQ3111/MA3701"
+                    ],
+                    "depts": [
+                        "IN",
+                        "IQ",
+                        "MA"
+                    ],
+                    "courses": [
+                        "XA0033",
+                        "IQ3111"
+                    ]
                 }
             }
-            },
+        },
         "01": {
             "name": "Credits requirements (Base-36)",
             "comment": "Blocks of mallas that need a minimum of approved courses.",
@@ -419,33 +446,6 @@
                 },
                 "41": {
                     "names": [
-                        "IN3141/MA3403/MA3401"
-                    ],
-                    "depts": [
-                        "IN",
-                        "MA"
-                    ],
-                    "courses": [
-                        "IN3141",
-                        "XA0037"
-                    ]
-                },
-                "42": {
-                    "names": [
-                        "IN3171/IQ3111/MA3701"
-                    ],
-                    "depts": [
-                        "IN",
-                        "IQ",
-                        "MA"
-                    ],
-                    "courses": [
-                        "XA0033",
-                        "IQ3111"
-                    ]
-                },
-                "43": {
-                    "names": [
                         "IN3242/MA3403"
                     ],
                     "depts": [
@@ -457,7 +457,7 @@
                         "MA3403"
                     ]
                 },
-                "44": {
+                "42": {
                     "names": [
                         "ME4110/ME4130/ME4140/ME4150/ME4160"
                     ],
@@ -500,7 +500,30 @@
                     "BT"
                 ]
             },
-            "xattr": {}
+            "xattr": {
+                "40": {
+                    "names": [
+                        "Equivalencia de requisitos"
+                    ],
+                    "depts": [],
+                    "courses": []
+                },
+                "41": {
+                    "names": [
+                        "IN3171/IQ3311/MA3701"
+                    ],
+                    "depts": [
+                        "IN",
+                        "IQ",
+                        "MA"
+                    ],
+                    "courses": [
+                        "IN3171",
+                        "IQ3311",
+                        "MA3701"
+                    ]
+                }
+            }
         },
         "26": {
             "name": "Pseudo-departamento de Química",
@@ -529,7 +552,6 @@
                 ]
             },
             "xatrr": {}
-      }
+        }
     }
-  }
-  
+}

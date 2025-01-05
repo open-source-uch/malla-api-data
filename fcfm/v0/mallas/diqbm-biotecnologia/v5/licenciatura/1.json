@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "name": "V Semestre",
+        "season": "Otoño",
+        "degree": "Licenciatura"
+    },
+    "courses": [
+        {
+            "code": "MA3403",
+            "name": "Probabilidades y Estadística",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "MA2001"
+            ],
+            "unlocks": [
+                "IN3301",
+                "IQ4112"
+            ]
+        },
+        {
+            "code": "BT3111",
+            "name": "Biología y Metabolismo Celular",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "IQ2211",
+                "CD2201",
+                "FI2003"
+            ],
+            "unlocks": [
+                "BT3113",
+                "BT3112",
+                "BT3711"
+            ]
+        },
+        {
+            "code": "BT3210",
+            "name": "Química Orgánica",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "IQ2211"
+            ],
+            "unlocks": [
+                "BT3112",
+                "BT3113"
+            ]
+        },
+        {
+            "code": "IQ3311",
+            "name": "Análisis de Procesos",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "MA2601",
+                "XA0031"
+            ],
+            "unlocks": [
+                "IQ3111",
+                "IN4273",
+                "IQ4314",
+                "BT4713"
+            ]
+        },
+        {
+            "code": "IQ3211",
+            "name": "Termodinámica Aplicada",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "XA0031"
+            ],
+            "unlocks": [
+                "IQ4314"
+            ]
+        }
+    ]
+}

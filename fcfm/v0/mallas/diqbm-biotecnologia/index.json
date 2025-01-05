@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "name": "Ingeniería Civil en Biotecnología",
+        "site": "https://diqbm.uchile.cl/carreras/4970/ingenieria-civil-en-biotecnologia",
+        "comment": "Does not provide malla, only list of courses."
+    },
+    "version": {
+        "v5": {
+            "semesters": 11,
+            "degrees": {
+                "plan_comun": 4,
+                "licenciatura": 4,
+                "ingenieria": 3
+            },
+            "malla": "https://ingenieria.uchile.cl/dam/jcr:9f5a197a-d38a-4bc7-9d34-48013b74a153/Malla%20Biotecnologia2022%20%20-Taller%20de%20Practica,%2028%20de%20julio.jpg",
+            "comment": "Mall provided by FCFM."
+        }
+    }
+}

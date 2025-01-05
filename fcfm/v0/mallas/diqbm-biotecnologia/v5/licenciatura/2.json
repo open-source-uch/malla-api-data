@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "name": "VI Semestre",
+        "season": "Primavera",
+        "degree": "Licenciatura"
+    },
+    "courses": [
+        {
+            "code": "IQ3111",
+            "name": "Modelamiento y Optimización para Ingeniería de Procesos",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "IQ3311"
+            ],
+            "unlocks": []
+        },
+        {
+            "code": "BT3112",
+            "name": "Biología y Metabolismo de Microorganismos",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "BT3111",
+                "BT3210"
+            ],
+            "unlocks": [
+                "BT4712"
+            ]
+        },
+        {
+            "code": "BT3113",
+            "name": "Biología Molecular",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "BT3111",
+                "BT3210"
+            ],
+            "unlocks": [
+                "BT4114"
+            ]
+        },
+        {
+            "code": "IQ3312",
+            "name": "Fenómenos de Transporte",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "MA2002",
+                "FI2001",
+                "CD2201"
+            ],
+            "unlocks": [
+                "BT4315",
+                "IQ4314",
+                "BT4911"
+            ]
+        },
+        {
+            "code": "BT3711",
+            "name": "Bioética, Legislación e Innovación",
+            "credits": 3,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "BT3111",
+                "CD2201",
+                "IN2201"
+            ],
+            "unlocks": [
+                "BT4713",
+                "BT4712"
+            ]
+        },
+        {
+            "code": "XA0012",
+            "name": "Formación Integral",
+            "credits": 3,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "BT4910",
+            "name": "Taller de Práctica Profesional I",
+            "credits": 1,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": [
+                "BT4911"
+            ]
+        }
+    ]
+}
