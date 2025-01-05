@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "name": "XI Semestre",
+        "season": "Otoño",
+        "degree": "Especialidad"
+    },
+    "courses": [
+        {
+            "code": "ME6909",
+            "name": "Trabajo de Título",
+            "credits": 21,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "ME6908"
+            ],
+            "unlocks": []
+        },
+        {
+            "code": "XA0022",
+            "name": "Electivo de Especialidad",
+            "credits": 6,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "XA0013",
+            "name": "Formación Integral de Especialidad",
+            "credits": 3,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        },
+        {
+            "code": "ME5902",
+            "name": "Práctica Profesional II",
+            "credits": 13,
+            "concurrent": [],
+            "provides": [],
+            "requires": [
+                "ME4901"
+            ],
+            "unlocks": []
+        },
+        {
+            "code": "EI2090",
+            "name": "Exámen de Suficiencia en Inglés II",
+            "credits": 0,
+            "concurrent": [],
+            "provides": [],
+            "requires": [],
+            "unlocks": []
+        }
+    ]
+}

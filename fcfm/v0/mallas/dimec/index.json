@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "name": "Ingeniería Civil Mecánica",
+        "site": "https://dimec.uchile.cl/app/ingenieria-civil-mecanica/plan-de-estudios/",
+        "comment": "Malla provided by department."
+    },
+    "version": {
+        "v5": {
+            "semesters": 11,
+            "degrees": {
+                "plan_comun": 4,
+                "licenciatura": 4,
+                "ingenieria": 3
+            },
+            "malla": "https://ingenieria.uchile.cl/dam/jcr:cf52c2cc-375c-4ce2-aa18-499ffb76f73b/Malla%20Civil%20Mecanica%202022%20,%20Taller%20de%20Pr%C3%A1ctica%2028%20julio%20.jpg",
+            "comment": "Mall provided by FCFM."
+        }
+    }
+}
